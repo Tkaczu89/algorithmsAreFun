@@ -1,0 +1,2 @@
+# algorithmsAreFun
+SDA exercises
